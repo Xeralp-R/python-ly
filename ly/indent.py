@@ -31,7 +31,7 @@ class Indenter(object):
     
     # variables
     indent_tabs = False     # use tabs for indent
-    indent_width = 2        # amount of spaces if indent_tabs == False
+    indent_width = 4        # amount of spaces if indent_tabs == False
     
     def __init__(self):
         pass
